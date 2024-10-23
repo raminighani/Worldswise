@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "8a47",
+      "cityName": "Kabul",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2024-10-23T10:52:22.748Z",
+      "notes": "",
+      "position": {
+        "lat": "34.526772582599754",
+        "lng": "69.19112489126195"
+      }
+    },
+    {
+      "id": "225d",
+      "cityName": "Tehran",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-10-23T10:52:37.836Z",
+      "notes": "",
+      "position": {
+        "lat": "35.68383115535552",
+        "lng": "51.3923225625067"
+      }
+    }
+  ]
+}
